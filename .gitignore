@@ -15,7 +15,7 @@ Ps/
 screenshots/
 
 VS/SleepVisualization/.vs/
-
+VS/SleepVisualization/Debug/
 *.sln
 *.db
 *.vcxproj
