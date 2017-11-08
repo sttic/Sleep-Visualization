@@ -15,10 +15,11 @@ Ps/
 screenshots/
 
 VS/SleepVisualization/.vs/
-.sln
-.db
-.vcxproj
-.filters
+
+*.sln
+*.db
+*.vcxproj
+*.filters
 
 test/
 
